@@ -1,0 +1,5 @@
+ebooklib>=0.20
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+mobi>=0.4.0
+
